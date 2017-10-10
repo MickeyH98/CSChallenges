@@ -1,0 +1,11 @@
+/Users/miguelhernandez/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.deps.json
+/Users/miguelhernandez/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.json
+/Users/miguelhernandez/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.runtimeconfig.dev.json
+/Users/miguelhernandez/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.dll
+/Users/miguelhernandez/Projects/Medium/Medium/bin/Debug/netcoreapp2.0/Medium.pdb
+/Users/miguelhernandez/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.csprojResolveAssemblyReference.cache
+/Users/miguelhernandez/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.csproj.CoreCompileInputs.cache
+/Users/miguelhernandez/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfoInputs.cache
+/Users/miguelhernandez/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.AssemblyInfo.cs
+/Users/miguelhernandez/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.dll
+/Users/miguelhernandez/Projects/Medium/Medium/obj/Debug/netcoreapp2.0/Medium.pdb
