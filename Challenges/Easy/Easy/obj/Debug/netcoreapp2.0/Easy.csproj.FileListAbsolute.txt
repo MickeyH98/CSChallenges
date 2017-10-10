@@ -1,0 +1,11 @@
+/Users/miguelhernandez/Projects/Easy/Easy/bin/Debug/netcoreapp2.0/Easy.deps.json
+/Users/miguelhernandez/Projects/Easy/Easy/bin/Debug/netcoreapp2.0/Easy.runtimeconfig.json
+/Users/miguelhernandez/Projects/Easy/Easy/bin/Debug/netcoreapp2.0/Easy.runtimeconfig.dev.json
+/Users/miguelhernandez/Projects/Easy/Easy/bin/Debug/netcoreapp2.0/Easy.dll
+/Users/miguelhernandez/Projects/Easy/Easy/bin/Debug/netcoreapp2.0/Easy.pdb
+/Users/miguelhernandez/Projects/Easy/Easy/obj/Debug/netcoreapp2.0/Easy.csprojResolveAssemblyReference.cache
+/Users/miguelhernandez/Projects/Easy/Easy/obj/Debug/netcoreapp2.0/Easy.csproj.CoreCompileInputs.cache
+/Users/miguelhernandez/Projects/Easy/Easy/obj/Debug/netcoreapp2.0/Easy.AssemblyInfoInputs.cache
+/Users/miguelhernandez/Projects/Easy/Easy/obj/Debug/netcoreapp2.0/Easy.AssemblyInfo.cs
+/Users/miguelhernandez/Projects/Easy/Easy/obj/Debug/netcoreapp2.0/Easy.dll
+/Users/miguelhernandez/Projects/Easy/Easy/obj/Debug/netcoreapp2.0/Easy.pdb

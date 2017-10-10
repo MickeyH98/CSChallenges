@@ -1,0 +1,11 @@
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.deps.json
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.runtimeconfig.json
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.runtimeconfig.dev.json
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.dll
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/bin/Debug/netcoreapp2.0/VeryHard.pdb
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.csprojResolveAssemblyReference.cache
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.csproj.CoreCompileInputs.cache
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.AssemblyInfoInputs.cache
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.AssemblyInfo.cs
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.dll
+/Users/miguelhernandez/Projects/VeryHard/VeryHard/obj/Debug/netcoreapp2.0/VeryHard.pdb

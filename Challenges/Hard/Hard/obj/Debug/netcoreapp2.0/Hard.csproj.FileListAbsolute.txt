@@ -1,0 +1,11 @@
+/Users/miguelhernandez/Projects/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.csprojResolveAssemblyReference.cache
+/Users/miguelhernandez/Projects/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.csproj.CoreCompileInputs.cache
+/Users/miguelhernandez/Projects/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.AssemblyInfoInputs.cache
+/Users/miguelhernandez/Projects/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.AssemblyInfo.cs
+/Users/miguelhernandez/Projects/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.deps.json
+/Users/miguelhernandez/Projects/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.runtimeconfig.json
+/Users/miguelhernandez/Projects/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.runtimeconfig.dev.json
+/Users/miguelhernandez/Projects/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.dll
+/Users/miguelhernandez/Projects/Hard/Hard/bin/Debug/netcoreapp2.0/Hard.pdb
+/Users/miguelhernandez/Projects/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.dll
+/Users/miguelhernandez/Projects/Hard/Hard/obj/Debug/netcoreapp2.0/Hard.pdb
